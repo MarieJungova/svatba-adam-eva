@@ -48,7 +48,7 @@ h3{
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 20px;
-    margin: 10% 10% 0 10%;
+    margin: 5% 10% 0 10%;
 
 }
 .sekce_pribeh{
