@@ -173,3 +173,30 @@ h3{
     text-decoration: none;
     color: #011638;
 }
+
+@media screen and (max-width: 500px){
+    .sekce_predstaveni{
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+    }
+
+    .poznani,
+    .rande,
+    .zadost{
+        grid-template-columns: 1fr;
+    }
+
+   .harmonogram{
+       font-size: 18px;
+   }
+
+    .rande_text{
+        order: 2;
+    }
+
+    .kontakty{
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+    }
+}
+    
