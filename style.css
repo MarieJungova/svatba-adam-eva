@@ -13,7 +13,7 @@ header{
 
 .header_text{
    font-family: 'Sacramento', cursive;
-   font-size: 30px;
+   font-size: 35px;
    margin: 0;
 }
 
@@ -22,7 +22,7 @@ header{
 .rande_foto img, 
 .poznani_foto img, 
 .zadost_foto img{
-    max-width: 200px;
+    max-width: 70%;
     border-radius: 50%;
     border: 3px solid #df9db0;
 }
